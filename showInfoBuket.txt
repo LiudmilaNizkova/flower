@@ -1,0 +1,8 @@
+The Buket Origin contains:
+Flower name - Rosa (Flower); Color - White; Fresh -OldFresh; Length - 50; Price - 10000.0
+Flower name - Mimoza (Flower); Color - Yellow; Fresh -FullFresh; Length - 30; Price - 15000.0
+Flower name - Rosa (Flower); Color - Red; Fresh -MiddleFresh; Length - 100; Price - 20000.0
+Flower name - Vetka (Pine); Color - Green; Fresh -OldFresh; Length - 50; Price - 10000.0
+Flower name - Leaf (Pine); Color - Yellow; Fresh -FullFresh; Length - 60; Price - 5000.0
+ Total flowers in the buket Origin = 5. Summa = 60000.0
+ ----------------------------
