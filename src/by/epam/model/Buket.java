@@ -113,7 +113,7 @@ public class Buket {
 			Collections.sort(copyFlowers, new PriceComparator());
 			file.write("Flowers are sorted by freshness: ");
 			for (Plant plant : copyFlowers){
-				file.write(plant.printInfo());
+				file.write("\n"+plant.printInfo());
 			}
 			file.flush();
 			file.close();
